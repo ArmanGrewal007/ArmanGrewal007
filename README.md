@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=armangrewal007?&theme=github_dark_dimmed" />
 </a> --> 
 
-<div style="display:flex;">
+<div style="display:flex; flex-wrap:nowrap">
   <div>
     <img src="https://github.com/underscoreio/philosopher-emoji/blob/master/karl-popper.png">
   </div>
