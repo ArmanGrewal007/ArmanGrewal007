@@ -21,13 +21,9 @@ Here are some ideas to get you started:
 
 
 
-Solarized dark             |  Solarized Ocean
+             |  
 :-------------------------:|:-------------------------:
 <img src="https://github.com/underscoreio/philosopher-emoji/blob/master/karl-popper.png"> |  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=armangrewal007&layout=compact&langs_count=10&card_width=320&theme=github_dark_dimmed" alt="GitHub Stats">
-
-<a href="https://github.com/armangrewal007/convoychat">
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=armangrewal007&layout=compact&langs_count=10&card_width=320&theme=github_dark_dimmed" alt="GitHub Stats">
-</a>
 
 
 
