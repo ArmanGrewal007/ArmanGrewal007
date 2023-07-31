@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 </a> --> 
 <div align="center">
   <a href="https://github.com/armangrewal007/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=armangrewal007&layout=compact&langs_count=10&card_width=520&theme=github_dark_dimmed" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=armangrewal007&layout=compact&langs_count=10&card_width=320&theme=github_dark_dimmed" />
   </a>
 </div>
