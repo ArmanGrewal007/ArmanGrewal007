@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 </a> --> 
 
 <div style="display:flex; flex-wrap:nowrap">
-  <div>
+  <div style="flex: 33.33%;padding: 5px;">
     <img src="https://github.com/underscoreio/philosopher-emoji/blob/master/karl-popper.png">
   </div>
-  <div>
+  <div style="flex: 33.33%;padding: 5px;">
     <img src="https://github.com/underscoreio/philosopher-emoji/blob/master/karl-popper.png">
   </div>
 </div>
