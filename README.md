@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 <div align="center">
   <div> *scio me nescire*  </div> 
   <img src="https://github.com/underscoreio/philosopher-emoji/blob/master/karl-popper.png">
+  <div>
   <a href="https://github.com/armangrewal007/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=armangrewal007&layout=compact&langs_count=10&card_width=320&theme=github_dark_dimmed" />
   </a>
+  </div>
 </div>
