@@ -25,7 +25,10 @@ Here are some ideas to get you started:
 </p>
 
 <!-- Profile view counter - https://github.com/antonkomarev/github-profile-views-counter -->
-<p float="left" align="center"> <img src="https://komarev.com/ghpvc/?username=armangrewal007-wd&label=Profile%20views&color=green&style=flat" alt="armangrewal007-wd" /> </p>
+<p float="left" align="center"> 
+<img src="https://komarev.com/ghpvc/?username=armangrewal007-wd&label=Profile%20views&color=green&style=flat" alt="armangrewal007-wd" /> 
+<a href="https://wakatime.com/@018bec3c-339f-4acb-98b2-41aa9598b087"><img src="https://wakatime.com/badge/user/018bec3c-339f-4acb-98b2-41aa9598b087.svg" alt="Total time coded since Nov 20 2023" /></a>
+</p>
 
 <!-- <p align="center"><img height="250"   src="ucwl5 2.jpeg">  </p> -->
 
