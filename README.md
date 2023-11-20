@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- All this in one line  https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 
 <!-- ***WANDERING IN MY METAPHYSICAL REALM...🚶‍♂️*** -->
 
@@ -64,8 +63,11 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats-git-master-armangrewal007s-projects.vercel.app/api/wakatime?username=armangrewal007&theme=github_dark_dimmed&layout=compact">
 </p>
 
+<!-- HUGE COLLECTION OF METRICS   https://github.com/lowlighter/metrics -->
 
-<!--
+
+
+<!-- PRE MADE readme.md https://rahuldkjain.github.io/gh-profile-readme-generator/ 
 
 <h1 align="center">Hi 👋, I'm Arman Grewal</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armangrewal007&label=Profile%20views&color=0e75b6&style=flat" alt="armangrewal007" /> </p>
