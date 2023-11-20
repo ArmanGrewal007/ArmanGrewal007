@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 <!-- time spend coding on wakatime -->
 <a href="https://wakatime.com/@018bec3c-339f-4acb-98b2-41aa9598b087"><img src="https://wakatime.com/badge/user/018bec3c-339f-4acb-98b2-41aa9598b087.svg" alt="Total time coded since Nov 20 2023" /></a>
 <!-- leetcode problems solved -->
-<img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Farmancode4u&logo=leetcode&logoColor=yellow">
+<a href="https://leetcode.com/armancode4u/" <img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Farmancode4u&logo=leetcode&logoColor=yellow"> </a>
 <!-- Leetcode contest rating and quantile -->
-<img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Rating&query=ratingQuantile&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Farmancode4u&logo=leetcode&logoColor=yellow)">
+<a href="https://leetcode.com/armancode4u/"> <img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Rating&query=ratingQuantile&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Farmancode4u&logo=leetcode&logoColor=yellow)"> </a>
 </p>
 
 <!-- <p align="center"><img height="250"   src="ucwl5 2.jpeg">  </p> -->
