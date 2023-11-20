@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 <!-- Stats - https://github.com/anuraghazra/github-readme-stats 
       (GitHub Stats, Customizing repo and gist cards, Top languages, WakaCard) -->
 <div align="center">
-<img height="200" align="left" src="https://github-readme-stats.vercel.app/api?username=armangrewal007&theme=github_dark_dimmed&count_private=true&include_all_commits=true" />
-<img height="230" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=armangrewal007&layout=compact&theme=github_dark_dimmed" alt="GitHub Stats">
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=armangrewal007&theme=github_dark_dimmed&count_private=true&include_all_commits=true" />
+<img height="200"  src="https://github-readme-stats.vercel.app/api/top-langs?username=armangrewal007&layout=compact&theme=github_dark_dimmed" alt="GitHub Stats">
 </div>
 
 <!-- GITHUB STATS ARE NOT WORTHY OF SHOWING YET !! 
