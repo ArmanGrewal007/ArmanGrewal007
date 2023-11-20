@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 </p>
 
 <!-- wakatime stats -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=armangrewal007">
+<img src="https://github-readme-stats-git-master-armangrewal007s-projects.vercel.app/api/wakatime?username=armangrewal007">
 
 <!--
 
