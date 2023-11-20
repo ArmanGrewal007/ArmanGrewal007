@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- All this in one line  https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
+
 <!-- ***WANDERING IN MY METAPHYSICAL REALM...🚶‍♂️*** -->
 
 
@@ -26,6 +28,9 @@ Here are some ideas to get you started:
 <p float="left" align="center"> <img src="https://komarev.com/ghpvc/?username=armangrewal007-wd&label=Profile%20views&color=green&style=flat" alt="armangrewal007-wd" /> </p>
 
 -----------------
+<!-- github profile trophy - https://github.com/ryo-ma/github-profile-trophy -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=armangrewal007" alt="armangrewal007" /></a> </p>
+
 <!-- Stats - https://github.com/anuraghazra/github-readme-stats 
       (GitHub Stats, Customizing repo and gist cards, Top languages, WakaCard) -->
 <p float="left" align="center">
