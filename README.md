@@ -37,6 +37,7 @@ Here are some ideas to get you started:
       (GitHub Stats, Customizing repo and gist cards, Top languages, WakaCard) -->
 <div align="center">
 <img height="200" src="https://github-readme-stats.vercel.app/api?username=armangrewal007&theme=github_dark_dimmed&count_private=true&include_all_commits=true" />
+<img height="200" width="20"/>
 <img height="200"  src="https://github-readme-stats.vercel.app/api/top-langs?username=armangrewal007&layout=compact&theme=github_dark_dimmed&langs_count=10" alt="GitHub Stats">
 </div>
 
