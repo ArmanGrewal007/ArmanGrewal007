@@ -13,12 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- GITHUB STATS ARE NOT WORTHY OF SHOWING YET !! -->
+<!-- GITHUB STATS ARE NOT WORTHY OF SHOWING YET !! 
 <a href="https://github.com/armangrewal007/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=armangrewal007&theme=github_dark_dimmed" />
-</a> 
+</a> -->
 
 <!-- Typing - https://github.com/DenverCoder1/readme-typing-svg 
+      DEMO site - https://readme-typing-svg.demolab.com/demo/
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&pause=1000&color=0999E8&background=7AFF8100&center=true&vCenter=true&width=435&lines=+Wandering+in+my+metaphysical+realm...🚶‍♂️;" alt="Typing SVG" /></a> -->
 
 <p float="left" align="center">
@@ -32,6 +33,8 @@ Here are some ideas to get you started:
 
 <!-- Dev Icons - https://github.com/devicons/devicon/ -->
 
-<!-- Streak stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<!-- Streak stats - https://github.com/DenverCoder1/github-readme-streak-stats
+      DEMO site - https://streak-stats.demolab.com/demo/ -->
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ArmanGrewal007&theme=dark" alt="GitHub Streak" /></a>
 
 
