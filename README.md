@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <!-- Typing - https://github.com/DenverCoder1/readme-typing-svg 
       DEMO site - https://readme-typing-svg.demolab.com/demo/ -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A30F&center=true&vCenter=true&random=false&width=435&lines=Hi+there!;+%E0%A8%B8%E0%A8%A4%E0%A8%BF+%E0%A8%B8%E0%A9%8D%E0%A8%B0%E0%A9%80+%E0%A8%85%E0%A8%95%E0%A8%BE%E0%A8%B2++" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A30F&center=true&vCenter=true&random=false&width=435&lines=Hi+there!;+%E0%A8%B8%E0%A8%A4%E0%A8%BF+%E0%A8%B8%E0%A9%8D%E0%A8%B0%E0%A9%80+%E0%A8%85%E0%A8%95%E0%A8%BE%E0%A8%B2+%E0%A5%A4" alt="Typing SVG" /></a>
 </p>
 
 <!-- Profile view counter - https://github.com/antonkomarev/github-profile-views-counter -->
