@@ -52,6 +52,8 @@ Here are some ideas to get you started:
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ArmanGrewal007&theme=one-dark-pro&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
+<!-- wakatime stats -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=armangrewal007">
 
 <!--
 
