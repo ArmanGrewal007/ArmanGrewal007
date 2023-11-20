@@ -27,5 +27,6 @@ Here are some ideas to get you started:
 <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=armangrewal007&layout=compact&langs_count=10&card_width=320&theme=github_dark_dimmed" alt="GitHub Stats">
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=armangrewal007-wd&label=Profile%20views&color=0e75b6&style=flat" alt="armangrewal007-wd" /> </p>
 
 
