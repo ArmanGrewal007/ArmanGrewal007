@@ -35,10 +35,10 @@ Here are some ideas to get you started:
 
 <!-- Stats - https://github.com/anuraghazra/github-readme-stats 
       (GitHub Stats, Customizing repo and gist cards, Top languages, WakaCard) -->
-<p float="center" align="center">
-<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=armangrewal007&theme=github_dark_dimmed&count_private=true&include_all_commits=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=armangrewal007&layout=compact&langs_count=10&card_width=320&theme=github_dark_dimmed" alt="GitHub Stats">
-</p>
+<div>
+<img height="230" align="left" src="https://github-readme-stats.vercel.app/api?username=armangrewal007&theme=github_dark_dimmed&count_private=true&include_all_commits=true" />
+<img height="230" src="https://github-readme-stats.vercel.app/api/top-langs?username=armangrewal007&layout=compact&langs_count=10&card_width=320&theme=github_dark_dimmed" alt="GitHub Stats">
+</div>
 
 <!-- GITHUB STATS ARE NOT WORTHY OF SHOWING YET !! 
 <a href="https://github.com/armangrewal007/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=armangrewal007&theme=github_dark_dimmed" /> </a> -->
