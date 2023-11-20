@@ -1,4 +1,3 @@
-### ** 🚶‍♂️
 <!--
 **ArmanGrewal007/ArmanGrewal007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,7 +19,7 @@ Here are some ideas to get you started:
 </a> --> 
 
 <!-- typing -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&pause=1000&color=0999E8&background=7AFF8100&center=true&vCenter=true&width=435&lines=Wandering+in+my+metaphysical+realm...;D" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&pause=1000&color=0999E8&background=7AFF8100&center=true&vCenter=true&width=435&lines=Wandering+in+my+metaphysical+realm...🚶‍♂️;" alt="Typing SVG" /></a>
 
 <p float="left" align="center">
 <img height="250"   src="ucwl5 2.jpeg">  
