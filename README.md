@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <!-- Streak stats - https://github.com/DenverCoder1/github-readme-streak-stats
       DEMO site - https://streak-stats.demolab.com/demo/ -->
 <p float="left" align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ArmanGrewal007&theme=one-dark-pro&hide_border=true&card_width=350" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ArmanGrewal007&theme=one-dark-pro&hide_border=true&card_width=300" alt="GitHub Streak" /></a>
 <!-- <img height="200" hspace="5"/> -->
 <img src="https://github-readme-stats-git-master-armangrewal007s-projects.vercel.app/api/wakatime?username=armangrewal007&theme=github_dark_dimmed&layout=compact">
 </p>
