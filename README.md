@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <p float="left" align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ArmanGrewal007&theme=one-dark-pro&hide_border=true&card_width=350" alt="GitHub Streak" /></a>
 <!-- <img height="200" hspace="5"/> -->
-<img width="200" src="https://github-readme-stats-git-master-armangrewal007s-projects.vercel.app/api/wakatime?username=armangrewal007&theme=github_dark_dimmed">
+<img width="300" src="https://github-readme-stats-git-master-armangrewal007s-projects.vercel.app/api/wakatime?username=armangrewal007&theme=github_dark_dimmed">
 </p>
 
 <!-- wakatime stats -->
