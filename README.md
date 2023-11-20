@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <!-- GITHUB STATS ARE NOT WORTHY OF SHOWING YET !! -->
 <a href="https://github.com/armangrewal007/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=armangrewal007?&theme=github_dark_dimmed" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=armangrewal007&theme=github_dark_dimmed" />
 </a> 
 
 <!-- Typing - https://github.com/DenverCoder1/readme-typing-svg 
