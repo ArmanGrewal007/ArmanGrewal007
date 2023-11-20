@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 
 <!-- ***WANDERING IN MY METAPHYSICAL REALM...🚶‍♂️*** -->
 
-<!-- GITHUB STATS ARE NOT WORTHY OF SHOWING YET !! 
-<a href="https://github.com/armangrewal007/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=armangrewal007&theme=github_dark_dimmed" />
-</a> -->
 
 <!-- Typing - https://github.com/DenverCoder1/readme-typing-svg 
       DEMO site - https://readme-typing-svg.demolab.com/demo/ -->
@@ -29,12 +25,19 @@ Here are some ideas to get you started:
 <!-- Profile view counter - https://github.com/antonkomarev/github-profile-views-counter -->
 <p float="left" align="center"> <img src="https://komarev.com/ghpvc/?username=armangrewal007-wd&label=Profile%20views&color=green&style=flat" alt="armangrewal007-wd" /> </p>
 
+-----------------
+<!-- Stats - https://github.com/anuraghazra/github-readme-stats 
+      (GitHub Stats, Customizing repo and gist cards, Top languages, WakaCard) -->
 <p float="left" align="center">
 <img height="250"   src="ucwl5 2.jpeg">  
 <img height="250" hspace="30"/>
 <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=armangrewal007&layout=compact&langs_count=10&card_width=320&theme=github_dark_dimmed" alt="GitHub Stats">
 </p>
 
+<!-- GITHUB STATS ARE NOT WORTHY OF SHOWING YET !! 
+<a href="https://github.com/armangrewal007/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=armangrewal007&theme=github_dark_dimmed" />
+</a> -->
 
 
 <!-- Dev Icons - https://github.com/devicons/devicon/ -->
