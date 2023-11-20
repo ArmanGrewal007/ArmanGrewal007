@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 
 <!-- Typing - https://github.com/DenverCoder1/readme-typing-svg 
       DEMO site - https://readme-typing-svg.demolab.com/demo/ -->
+<p float="left" align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79B21&random=false&width=435&lines=Hello+there!" alt="Typing SVG" /></a>
+</p>
 
 <!-- Profile view counter - https://github.com/antonkomarev/github-profile-views-counter -->
 <p float="left" align="center"> <img src="https://komarev.com/ghpvc/?username=armangrewal007-wd&label=Profile%20views&color=green&style=flat" alt="armangrewal007-wd" /> </p>
