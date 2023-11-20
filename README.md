@@ -27,27 +27,21 @@ Here are some ideas to get you started:
 <!-- Profile view counter - https://github.com/antonkomarev/github-profile-views-counter -->
 <p float="left" align="center"> <img src="https://komarev.com/ghpvc/?username=armangrewal007-wd&label=Profile%20views&color=green&style=flat" alt="armangrewal007-wd" /> </p>
 
-<img height="250"   src="ucwl5 2.jpeg">  
+<p align="center"><img height="250"   src="ucwl5 2.jpeg">  </p>
 
 -----------------
 <!-- github profile trophy - https://github.com/ryo-ma/github-profile-trophy -->
 <p float="left" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=armangrewal007&column=5&theme=onedark&no-frame=true" alt="armangrewal007" /></a> </p>
 
 <!-- Stats - https://github.com/anuraghazra/github-readme-stats 
-      (GitHub Stats, Customizing repo and gist cards, Top languages, WakaCard) -->
+      (GitHub Stats, Customizing repo and gist cards, Top languages, WakaCard) 
+      github-readme-stats-git-master-armangrewal007s-projects.vercel.app is my personal deployment to also show private stats-->
+      
 <p align="center">
 <img height="200" src="https://github-readme-stats-git-master-armangrewal007s-projects.vercel.app/api?username=armangrewal007&theme=github_dark_dimmed&count_private=true&include_all_commits=true" />
 <img height="200" hspace="30"/>
 <img height="200"  src="https://github-readme-stats-git-master-armangrewal007s-projects.vercel.app/api/top-langs?username=armangrewal007&layout=compact&theme=github_dark_dimmed&langs_count=10" alt="GitHub Stats">
 </p>
-<p align="center">
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=armangrewal007&theme=github_dark_dimmed&count_private=true&include_all_commits=true" />
-<img height="200" hspace="30"/>
-<img height="200"  src="https://github-readme-stats.vercel.app/api/top-langs?username=armangrewal007&layout=compact&theme=github_dark_dimmed&langs_count=10" alt="GitHub Stats">
-</p>
-
-<!-- GITHUB STATS ARE NOT WORTHY OF SHOWING YET !! 
-<a href="https://github.com/armangrewal007/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=armangrewal007&theme=github_dark_dimmed" /> </a> -->
 
 
 <!-- Dev Icons - https://github.com/devicons/devicon/ -->
