@@ -55,15 +55,17 @@ Here are some ideas to get you started:
 <!-- Dev Icons - https://github.com/devicons/devicon/ -->
 
 --------------------
-<!-- Streak stats - https://github.com/DenverCoder1/github-readme-streak-stats
-      DEMO site - https://streak-stats.demolab.com/demo/ -->
 <p float="left" align="center">
+      <!-- Streak stats - https://github.com/DenverCoder1/github-readme-streak-stats
+      DEMO site - https://streak-stats.demolab.com/demo/ -->
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ArmanGrewal007&theme=one-dark-pro&hide_border=true&card_width=300" alt="GitHub Streak" /></a>
 <!-- <img height="200" hspace="5"/> -->
+      <!-- wakatime stats -->
 <img src="https://github-readme-stats-git-master-armangrewal007s-projects.vercel.app/api/wakatime?username=armangrewal007&theme=github_dark_dimmed&layout=compact">
 </p>
 
-<!-- wakatime stats -->
+
+[Kapeli - User Contribuitions](https://github.com/Kapeli/Dash-User-Contributions/pulls?q=author%3Aarmangrewal007)
 
 <!--
 
