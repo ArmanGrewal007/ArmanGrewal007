@@ -65,8 +65,6 @@ Here are some ideas to get you started:
 </p>
 
 
-[![armangrewal007's metrics](./github-metrics.svg)](https://github.com/lowlighter/metrics)
-
 <!--
 
 <h1 align="center">Hi 👋, I'm Arman Grewal</h1>
