@@ -27,9 +27,8 @@ Here are some ideas to get you started:
 <!-- Profile view counter - https://github.com/antonkomarev/github-profile-views-counter -->
 <p float="left" align="center"> <img src="https://komarev.com/ghpvc/?username=armangrewal007-wd&label=Profile%20views&color=green&style=flat" alt="armangrewal007-wd" /> </p>
 
-<p align="center"><img height="250"   src="ucwl5 2.jpeg">  </p>
+<!-- <p align="center"><img height="250"   src="ucwl5 2.jpeg">  </p> -->
 
------------------
 <!-- github profile trophy - https://github.com/ryo-ma/github-profile-trophy -->
 <p float="left" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=armangrewal007&column=5&theme=onedark&no-frame=true" alt="armangrewal007" /></a> </p>
 
