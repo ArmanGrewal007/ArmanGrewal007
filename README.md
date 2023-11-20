@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 -----------------
 <!-- github profile trophy - https://github.com/ryo-ma/github-profile-trophy -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=armangrewal007&column=5&theme=onedark&no-frame=true" alt="armangrewal007" /></a> </p>
+<p float="left" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=armangrewal007&column=5&theme=onedark&no-frame=true" alt="armangrewal007" /></a> </p>
 
 <!-- Stats - https://github.com/anuraghazra/github-readme-stats 
       (GitHub Stats, Customizing repo and gist cards, Top languages, WakaCard) -->
