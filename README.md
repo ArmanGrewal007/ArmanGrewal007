@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 </p>
 
 
-[Kapeli - User Contribuitions](https://github.com/Kapeli/Dash-User-Contributions/pulls?q=author%3Aarmangrewal007)
+[Kapeli - User Contribuitions](https://github.com/Kapeli/Dash-User-Contributions/pulls?q=author=armangrewal007)
 
 <!--
 
