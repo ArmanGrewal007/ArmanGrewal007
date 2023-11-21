@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 <br>
 <table align="center" style="background-color: white;">
       <tr align="center">
-            <td colspan="5">:star: <b>Programming/Scripting languages</b> 
+            <td colspan="5"> <b>Programming/Scripting languages</b> 
                  <br><br> <img src="https://skillicons.dev/icons?i=python,bash,cpp,c,cs,java,html,css,js">
       </tr>
       <tr align="center">
