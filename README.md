@@ -54,26 +54,29 @@ Here are some ideas to get you started:
 
 
 <table align="center" style="background-color: white;">
-      <tr align="center"><td colspan="2">:star: <b>Programming languages</b> <br> <img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,js">
+      <tr align="center">
+            <td colspan="2">:star: <b>Programming languages</b> 
+                  <br> <img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,js">
       </tr>
-      <tr><td>💻 <b>Web technologies </b> <br>
-            <img src="https://skillicons.dev/icons?i=html,css,js,vue"></td>
-            <td>🔎 <b>Databases</b> <br>
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="90" height="90"/>
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgres/postgres-original.svg" width="90" height="90"/>
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="90" height="90"/>
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="90" height="90"/>
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="90" height="90"/>
-            </td>
-            </tr>
-      <tr>  <td>🚀 <b>Web frameworks</b></td>
-            <td>☁️ <b>Cloud Storage</b></td></tr>
-      <tr>  <td>📊 <b>Data Analysis tools</b></td>
-            <td>🧠 <b>Machine Learning</b></td></tr>
-      <tr>  <td>🛠️ <b>DevOps</b></td>
-            <td>💽 <b>Operating systems</b></td></tr>
-      <tr>  <td>🕵️ <b>Monitoring</b></td>
-            <td>🐙 <b>Version control</b></td></tr>
+      <tr>
+            <td>💻 <b>Web technologies</b> <br><img src="https://skillicons.dev/icons?i=html,css,js,vue,express"></td>
+            <td>🔎 <b>Databases</b> <br> <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,redis"></td>
+      </tr>
+      <tr>  
+            <td>🚀 <b>Web frameworks</b> <img src="https://skillicons.dev/icons?i=django,flask,rails"></td>
+            <td>☁️ <b>Cloud Storage</b> <img src="https://skillicons.dev/icons?i=aws"></td>
+      </tr>
+      <tr>  
+            <td>📊 <b>Data Analysis tools</b> <img src="https://skillicons.dev/icons?i="> </td>
+            <td>🧠 <b>Machine Learning</b> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"> </td>
+      </tr>
+      <tr>  
+            <td>🛠️ <b>DevOps</b> <img src="https://skillicons.dev/icons?i=jenkins,docker"></td>
+            <td>💽 <b>Operating systems</b> <img src="https://skillicons.dev/icons?i="></td>
+      </tr>
+      <tr>  <td>🕵️ <b>Monitoring</b> <img src="https://skillicons.dev/icons?i=kafka"></td>
+            <td>🐙 <b>Version control</b> <img src="https://skillicons.dev/icons?i=git"></td>
+      </tr>
 </table>
 
 --------------------
