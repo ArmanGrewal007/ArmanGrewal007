@@ -55,26 +55,20 @@ Here are some ideas to get you started:
 
 <table align="center" style="background-color: white;">
       <tr align="center">
-            <td colspan="2">:star: <b>Programming languages</b> 
+            <td colspan="5">:star: <b>Programming languages</b> 
                   <br> <img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,js">
       </tr>
       <tr align="center">
             <td>💻 <b>Web technologies</b> <br><img src="https://skillicons.dev/icons?i=html,css,js,vue,express&perline=3"></td>
             <td>🔎 <b>Databases</b> <br> <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,redis&perline=3"></td>
-      </tr>
-      <tr align="center">
             <td>🚀 <b>Web frameworks</b><br> <img src="https://skillicons.dev/icons?i=django,flask,rails"></td>
             <td>☁️ <b>Cloud Storage</b> <br><img src="https://skillicons.dev/icons?i=aws"></td>
-      </tr>
-      <tr align="center"> 
             <td>📊 <b>Data Analysis tools</b><br> <img src="https://skillicons.dev/icons?i="> </td>
-            <td>🧠 <b>Machine Learning</b> <br><img src="https://skillicons.dev/icons?i=tensorflow,pytorch"> </td>
       </tr>
       <tr align="center"> 
+            <td>🧠 <b>Machine Learning</b> <br><img src="https://skillicons.dev/icons?i=tensorflow,pytorch"> </td>
             <td>🛠️ <b>DevOps</b> <br><img src="https://skillicons.dev/icons?i=jenkins,docker"></td>
             <td>💽 <b>Operating systems</b><br> <img src="https://skillicons.dev/icons?i="></td>
-      </tr>
-      <tr align="center"> 
             <td>🕵️ <b>Monitoring</b><br> <img src="https://skillicons.dev/icons?i=kafka"></td>
             <td>🐙 <b>Version control</b><br> <img src="https://skillicons.dev/icons?i=git"></td>
       </tr>
