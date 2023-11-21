@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 ## 📚 Tech Stack
 <!-- Dev Icons - https://github.com/devicons/devicon/ -->
 <details> <summary> Click to expand ⤵️ </summary>
-<br><br>
+<br>
 <table align="center" style="background-color: white;">
       <tr align="center">
             <td colspan="5">:star: <b>Programming/Scripting languages</b> 
