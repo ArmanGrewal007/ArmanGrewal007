@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 <p float="left" align="center"> 
 <!-- Profile view counter - https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=armangrewal007-wd&label=Profile%20views&color=green&style=flat" alt="armangrewal007-wd" /> 
-<!-- time spend coding on wakatime -->
-<a href="https://wakatime.com/@018bec3c-339f-4acb-98b2-41aa9598b087"><img src="https://wakatime.com/badge/user/018bec3c-339f-4acb-98b2-41aa9598b087.svg" alt="Total time coded since Nov 20 2023" /></a>
 
 <!-- Leetcode problems solved, rating  - https://leetcode-badge.vercel.app/
       Leetcode contest rating and quantile 
@@ -70,7 +68,16 @@ Here are some ideas to get you started:
 </details>
 <!-- HUGE COLLECTION OF METRICS   https://github.com/lowlighter/metrics -->
 
+------------------------
+<details> <summary> My ⏰ WakaTime stats ⤵️ </summary>
+<p float="left" align="center">
+      <!-- time spend coding on wakatime -->
+<a href="https://wakatime.com/@018bec3c-339f-4acb-98b2-41aa9598b087"><img src="https://wakatime.com/badge/user/018bec3c-339f-4acb-98b2-41aa9598b087.svg" alt="Total time coded since Nov 20 2023" /></a>
+</p>
 
+<figure><embed src="https://wakatime.com/share/@armangrewal007/a11c45ef-97ec-41b3-b2f6-77b0191d5afe.svg"></embed></figure>
+
+</details>
 
 <!-- PRE MADE readme.md https://rahuldkjain.github.io/gh-profile-readme-generator/ 
 
