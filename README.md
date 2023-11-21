@@ -48,8 +48,10 @@ Here are some ideas to get you started:
 <img height="200"  src="https://github-readme-stats.vercel.app/api/top-langs?username=armangrewal007&layout=compact&theme=github_dark_dimmed&langs_count=10" alt="GitHub Stats">
 </p>
 
-
+-----------------
+## 📚 Tech Stack
 <!-- Dev Icons - https://github.com/devicons/devicon/ -->
+<img src="https://skillicons.dev/icons?i=js,html,css,wasm">
 
 --------------------
 ## :octocat: My GitHub streak 🔥 stats
