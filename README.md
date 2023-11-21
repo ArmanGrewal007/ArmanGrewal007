@@ -63,19 +63,19 @@ Here are some ideas to get you started:
             <td>🔎 <b>Databases</b> <br> <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,redis"></td>
       </tr>
       <tr>  
-            <td>🚀 <b>Web frameworks</b> <img src="https://skillicons.dev/icons?i=django,flask,rails"></td>
-            <td>☁️ <b>Cloud Storage</b> <img src="https://skillicons.dev/icons?i=aws"></td>
+            <td>🚀 <b>Web frameworks</b><br> <img src="https://skillicons.dev/icons?i=django,flask,rails"></td>
+            <td>☁️ <b>Cloud Storage</b> <br><img src="https://skillicons.dev/icons?i=aws"></td>
       </tr>
       <tr>  
-            <td>📊 <b>Data Analysis tools</b> <img src="https://skillicons.dev/icons?i="> </td>
-            <td>🧠 <b>Machine Learning</b> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"> </td>
+            <td>📊 <b>Data Analysis tools</b><br> <img src="https://skillicons.dev/icons?i="> </td>
+            <td>🧠 <b>Machine Learning</b> <br><img src="https://skillicons.dev/icons?i=tensorflow,pytorch"> </td>
       </tr>
       <tr>  
-            <td>🛠️ <b>DevOps</b> <img src="https://skillicons.dev/icons?i=jenkins,docker"></td>
-            <td>💽 <b>Operating systems</b> <img src="https://skillicons.dev/icons?i="></td>
+            <td>🛠️ <b>DevOps</b> <br><img src="https://skillicons.dev/icons?i=jenkins,docker"></td>
+            <td>💽 <b>Operating systems</b><br> <img src="https://skillicons.dev/icons?i="></td>
       </tr>
-      <tr>  <td>🕵️ <b>Monitoring</b> <img src="https://skillicons.dev/icons?i=kafka"></td>
-            <td>🐙 <b>Version control</b> <img src="https://skillicons.dev/icons?i=git"></td>
+      <tr>  <td>🕵️ <b>Monitoring</b><br> <img src="https://skillicons.dev/icons?i=kafka"></td>
+            <td>🐙 <b>Version control</b><br> <img src="https://skillicons.dev/icons?i=git"></td>
       </tr>
 </table>
 
