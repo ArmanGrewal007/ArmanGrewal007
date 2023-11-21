@@ -67,6 +67,7 @@ Here are some ideas to get you started:
 <!-- github activity graph - https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img src = "https://github-readme-activity-graph.vercel.app/graph?username=armangrewal007&theme=merko"/>
 
+</details>
 <!-- HUGE COLLECTION OF METRICS   https://github.com/lowlighter/metrics -->
 
 
