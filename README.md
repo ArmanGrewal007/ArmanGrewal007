@@ -68,7 +68,7 @@ Here are some ideas to get you started:
             <td>📊 <b>Data Analysis tools</b><br><br> <img src="https://skillicons.dev/icons?i="> </td>
             <td>🧠 <b>Machine Learning</b><br><br><img src="https://skillicons.dev/icons?i=tensorflow,pytorch"> </td>
             <td>🛠️ <b>DevOps</b><br><br><img src="https://skillicons.dev/icons?i=jenkins,docker"></td>
-            <td>💽 <b>Operating systems</b><br><br> <img src="https://skillicons.dev/icons?i="></td>
+            <td>💽 <b>Operating systems</b><br><br> <img src="https://skillicons.dev/icons?i=linux"></td>
       </tr>
       <tr align="center">
             <td>🕵️ <b>Monitoring</b><br><br> <img src="https://skillicons.dev/icons?i=kafka,postman"></td>
