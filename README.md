@@ -59,22 +59,22 @@ Here are some ideas to get you started:
                  <br><br> <img src="https://skillicons.dev/icons?i=python,bash,cpp,c,cs,java,html,css,js">
       </tr>
       <tr align="center">
-            <td>💻 <b>Web technologies</b><br><br><img src="https://skillicons.dev/icons?i=bootstrap,jquery,vue,express"></td>
-            <td>🚀 <b>Web frameworks</b><br><br> <img src="https://skillicons.dev/icons?i=django,flask,rails"></td>
-            <td>🔎 <b>Databases</b><br><br> <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,redis"></td>
-            <td>☁️ <b>Cloud Storage</b><br><br><img src="https://skillicons.dev/icons?i=aws"></td>
+            <td><b>Web technologies</b><br><br><img src="https://skillicons.dev/icons?i=bootstrap,jquery,vue,express"></td>
+            <td><b>Web frameworks</b><br><br> <img src="https://skillicons.dev/icons?i=django,flask,rails"></td>
+            <td> <b>Databases</b><br><br> <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,redis"></td>
+            <td> <b>Cloud Storage</b><br><br><img src="https://skillicons.dev/icons?i=aws"></td>
       </tr>
       <tr align="center"> 
-            <td>📊 <b>Data Analysis tools</b><br><br> <img src="https://skillicons.dev/icons?i="> </td>
-            <td>🧠 <b>Machine Learning</b><br><br><img src="https://skillicons.dev/icons?i=tensorflow,pytorch"> </td>
-            <td>🛠️ <b>DevOps</b><br><br><img src="https://skillicons.dev/icons?i=jenkins,docker"></td>
-            <td>💽 <b>Operating systems</b><br><br> <img src="https://skillicons.dev/icons?i=linux"></td>
+            <td> <b>Data Analysis tools</b><br><br> <img src="https://skillicons.dev/icons?i="> </td>
+            <td> <b>Machine Learning</b><br><br><img src="https://skillicons.dev/icons?i=tensorflow,pytorch"> </td>
+            <td> <b>DevOps</b><br><br><img src="https://skillicons.dev/icons?i=jenkins,docker"></td>
+            <td> <b>Operating systems</b><br><br> <img src="https://skillicons.dev/icons?i=linux"></td>
       </tr>
       <tr align="center">
-            <td>🕵️ <b>Monitoring</b><br><br> <img src="https://skillicons.dev/icons?i=kafka,postman"></td>
-            <td>🐙 <b>Version control</b><br><br> <img src="https://skillicons.dev/icons?i=git"></td>
-            <td>✍️ <b>Graphic designing</b><br><br><img src="https://skillicons.dev/icons?i=blender"> </td>
-            <td>🎮 <b>Game development</b><br><br><img src="https://skillicons.dev/icons?i=unity"> </td>
+            <td> <b>Monitoring</b><br><br> <img src="https://skillicons.dev/icons?i=kafka,postman"></td>
+            <td> <b>Version control</b><br><br> <img src="https://skillicons.dev/icons?i=git"></td>
+            <td> <b>Graphic designing</b><br><br><img src="https://skillicons.dev/icons?i=blender"> </td>
+            <td> <b>Game development</b><br><br><img src="https://skillicons.dev/icons?i=unity"> </td>
       </tr>
 </table>
 </details>
