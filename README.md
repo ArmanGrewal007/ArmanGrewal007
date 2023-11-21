@@ -52,7 +52,8 @@ Here are some ideas to get you started:
 <!-- Dev Icons - https://github.com/devicons/devicon/ -->
 
 --------------------
-<details> <summary> My :octocat: GitHub stats ⤵️ </summary>
+## My :octocat: GitHub stats
+<details> <summary> Click to expand ⤵️ </summary>
 <p float="left" align="center">
       <!-- Streak stats - https://github.com/DenverCoder1/github-readme-streak-stats
       DEMO site - https://streak-stats.demolab.com/demo/ -->
@@ -69,13 +70,13 @@ Here are some ideas to get you started:
 <!-- HUGE COLLECTION OF METRICS   https://github.com/lowlighter/metrics -->
 
 ------------------------
-<details> <summary> My ⏰ WakaTime stats ⤵️ </summary>
+## My ⏰ WakaTime stats 
+<details> <summary> Click to expand ⤵️ </summary>
 <p float="left" align="center">
       <!-- time spend coding on wakatime -->
 <a href="https://wakatime.com/@018bec3c-339f-4acb-98b2-41aa9598b087"><img src="https://wakatime.com/badge/user/018bec3c-339f-4acb-98b2-41aa9598b087.svg" alt="Total time coded since Nov 20 2023" /></a>
 </p>
 
-<img height="250" src="https://wakatime.com/share/@armangrewal007/66bcf5b1-cdc9-4428-ba32-42756113c276.svg">
 
 </details>
 
