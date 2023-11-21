@@ -43,7 +43,7 @@ Here are some ideas to get you started:
       github-readme-stats-git-master-armangrewal007s-projects.vercel.app is my personal deployment to also show private stats-->
       
 <p align="center">
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=armangrewal007&theme=github_dark_dimmed&count_private=true&include_all_commits=true" />
+<img height="200" src="https://github-readme-stats-git-master-armangrewal007s-projects.vercel.app/api?username=armangrewal007&theme=github_dark_dimmed&count_private=true&include_all_commits=true" />
 <img height="200" hspace="30"/>
 <img height="200"  src="https://github-readme-stats.vercel.app/api/top-langs?username=armangrewal007&layout=compact&theme=github_dark_dimmed&langs_count=10" alt="GitHub Stats">
 </p>
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <!-- Dev Icons - https://github.com/devicons/devicon/ -->
 
 --------------------
-## My :octocat: GitHub stats
+## :octocat: My GitHub streak 🔥 stats
 <details> <summary> Click to expand ⤵️ </summary>
 <p float="left" align="center">
       <!-- Streak stats - https://github.com/DenverCoder1/github-readme-streak-stats
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 <!-- HUGE COLLECTION OF METRICS   https://github.com/lowlighter/metrics -->
 
 ------------------------
-## My ⏰ WakaTime stats 
+## ⏰ My WakaTime stats 
 <details> <summary> Click to expand ⤵️ </summary>
 <p float="left" align="center">
       <!-- time spend coding on wakatime -->
