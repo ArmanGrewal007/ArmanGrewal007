@@ -51,17 +51,23 @@ Here are some ideas to get you started:
 -----------------
 ## 📚 Tech Stack
 <!-- Dev Icons - https://github.com/devicons/devicon/ -->
-- :star: *Programming languages* - <img src="https://skillicons.dev/icons?i=js,html,css,wasm">
-- 💻 *Web technologies* -
-- 🚀 *Web frameworks* - .
-- 🔎 *Databases*
-- ☁️ *Cloud Storage*
-- 📊 *Data Analysis tools* -
-- 🧠 *Machine Learning*
-- 🛠️ *DevOps*
-- 💽 *Operating systems*
-- 🕵️ *Monitoring*
-- 🐙 *Version control*
+
+
+<table>
+      <tr><td>:star: *Programming languages* <br> <img src="https://skillicons.dev/icons?i=js,html,css,wasm"></td>
+            <td></td>
+      </tr>
+      <tr><td>💻 *Web technologies*</td>
+            <td>🚀 *Web frameworks*</td></tr>
+      <tr>  <td>🔎 *Databases*</td>
+            <td>☁️ *Cloud Storage*</td></tr>
+      <tr>  <td>📊 *Data Analysis tools*</td>
+            <td>🧠 *Machine Learning*</td></tr>
+      <tr>  <td>🛠️ *DevOps*</td>
+            <td>💽 *Operating systems*</td></tr>
+      <tr>  <td>🕵️ *Monitoring*</td>
+            <td>🐙 *Version control*</td></tr>
+</table>
 
 --------------------
 ## :octocat: My GitHub streak 🔥 stats
