@@ -54,8 +54,7 @@ Here are some ideas to get you started:
 
 
 <table align="center">
-      <tr><td>:star: <b>Programming languages</b> <br> <img src="https://skillicons.dev/icons?i=python,cpp,java,c,html,css,javascript"></td>
-            <td></td>
+      <tr align="center"><td colspan="2">:star: <b>Programming languages</b> <br> <img src="https://skillicons.dev/icons?i=python,cpp,java,c,html,css,javascript">
       </tr>
       <tr><td>💻 <b>Web technologies</b></td>
             <td>🚀 <b>Web frameworks</b></td></tr>
