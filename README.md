@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <!-- Dev Icons - https://github.com/devicons/devicon/ -->
 
 --------------------
-<details> <summary> My :octocat: GitHub stats ⤵️
+<details> <summary> My :octocat: GitHub stats ⤵️ </summary>
 <p float="left" align="center">
       <!-- Streak stats - https://github.com/DenverCoder1/github-readme-streak-stats
       DEMO site - https://streak-stats.demolab.com/demo/ -->
