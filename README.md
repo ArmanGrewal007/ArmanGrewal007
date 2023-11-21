@@ -61,7 +61,7 @@ Here are some ideas to get you started:
             <td>🔎 <b>Databases</b> <br>
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="90" height="90"/>
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgres/postgres-original.svg" width="90" height="90"/>
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="90" height="90"/>
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="90" height="90"/>
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="90" height="90"/>
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="90" height="90"/>
             </td>
