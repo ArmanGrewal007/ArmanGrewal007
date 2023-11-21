@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 <a href="https://wakatime.com/@018bec3c-339f-4acb-98b2-41aa9598b087"><img src="https://wakatime.com/badge/user/018bec3c-339f-4acb-98b2-41aa9598b087.svg" alt="Total time coded since Nov 20 2023" /></a>
 </p>
 
-<figure><embed src="https://wakatime.com/share/@armangrewal007/f312f114-f4b3-49ac-90ae-7556cc21a525.svg"></embed></figure>
+<img src="https://wakatime.com/share/@armangrewal007/f312f114-f4b3-49ac-90ae-7556cc21a525.svg">
 
 </details>
 
