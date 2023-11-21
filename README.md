@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 -----------------
 ## 📚 Tech Stack
 <!-- Dev Icons - https://github.com/devicons/devicon/ -->
-
+<details> <summary> Click to expand ⤵️ </summary>
 
 <table align="center" style="background-color: white;">
       <tr align="center">
@@ -77,6 +77,7 @@ Here are some ideas to get you started:
             <td>🎮 <b>Game development</b><br><br><img src="https://skillicons.dev/icons?i=unity"> </td>
       </tr>
 </table>
+</details>
 
 --------------------
 ## :octocat: My GitHub streak 🔥 stats
