@@ -54,11 +54,13 @@ Here are some ideas to get you started:
 
 
 <table align="center">
-      <tr align="center"><td colspan="2">:star: <b>Programming languages</b> <br> <img src="https://skillicons.dev/icons?i=python,cpp,java,c,html,css,javascript">
+      <tr align="center"><td colspan="2">:star: <b>Programming languages</b> <br> <img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,js">
       </tr>
-      <tr><td>💻 <b>Web technologies</b></td>
+      <tr><td>💻 <b>Web technologies </b> <br>
+            <img src="https://skillicons.dev/icons?i=html,css,js,vue"></td>
             <td>🚀 <b>Web frameworks</b></td></tr>
-      <tr>  <td>🔎 <b>Databases</b></td>
+      <tr>  <td>🔎 <b>Databases</b> <br>
+                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original-wordmark.svg" /></td>
             <td>☁️ <b>Cloud Storage</b></td></tr>
       <tr>  <td>📊 <b>Data Analysis tools</b></td>
             <td>🧠 <b>Machine Learning</b></td></tr>
