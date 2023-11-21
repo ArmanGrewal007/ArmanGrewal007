@@ -73,7 +73,7 @@ Here are some ideas to get you started:
       <tr align="center">
             <td>🕵️ <b>Monitoring</b><br><br> <img src="https://skillicons.dev/icons?i=kafka,postman"></td>
             <td>🐙 <b>Version control</b><br><br> <img src="https://skillicons.dev/icons?i=git"></td>
-            <td>✍️<b>Graphic designing</b><br><br><img src="https://skillicons.dev/icons?i=gimp,gimp,gimp,blender"> </td>
+            <td>✍️<b>Graphic designing</b><br><br><img src="https://skillicons.dev/icons?i=blender"> </td>
             <td>🎮<b>Game development</b><br><br><img src="https://skillicons.dev/icons?i=unity"> </td>
       </tr>
 </table>
