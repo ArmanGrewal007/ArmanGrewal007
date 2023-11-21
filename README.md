@@ -53,8 +53,8 @@ Here are some ideas to get you started:
 <!-- Dev Icons - https://github.com/devicons/devicon/ -->
 
 
-<table style="padding:20px">
-      <tr><td>:star: <b>Programming languages</b> <br> <img src="https://skillicons.dev/icons?i=python,cpp,java,c"></td>
+<table align="center">
+      <tr><td>:star: <b>Programming languages</b> <br> <img src="https://skillicons.dev/icons?i=python,cpp,java,c,html,css,javascript"></td>
             <td></td>
       </tr>
       <tr><td>💻 <b>Web technologies</b></td>
