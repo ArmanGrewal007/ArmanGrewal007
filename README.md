@@ -60,7 +60,7 @@ Here are some ideas to get you started:
             <img src="https://skillicons.dev/icons?i=html,css,js,vue"></td>
             <td>🚀 <b>Web frameworks</b></td></tr>
       <tr>  <td>🔎 <b>Databases</b> <br>
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original-wordmark.svg" width="40" height="40"/></td>
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="40" height="40"/></td>
             <td>☁️ <b>Cloud Storage</b></td></tr>
       <tr>  <td>📊 <b>Data Analysis tools</b></td>
             <td>🧠 <b>Machine Learning</b></td></tr>
