@@ -54,19 +54,19 @@ Here are some ideas to get you started:
 
 
 <table>
-      <tr><td>:star: *Programming languages* <br> <img src="https://skillicons.dev/icons?i=js,html,css,wasm"></td>
+      <tr><td>:star: <b>Programming languages* <br> <img src="https://skillicons.dev/icons?i=js,html,css,wasm"></td>
             <td></td>
       </tr>
-      <tr><td>💻 *Web technologies*</td>
-            <td>🚀 *Web frameworks*</td></tr>
-      <tr>  <td>🔎 *Databases*</td>
-            <td>☁️ *Cloud Storage*</td></tr>
-      <tr>  <td>📊 *Data Analysis tools*</td>
-            <td>🧠 *Machine Learning*</td></tr>
-      <tr>  <td>🛠️ *DevOps*</td>
-            <td>💽 *Operating systems*</td></tr>
-      <tr>  <td>🕵️ *Monitoring*</td>
-            <td>🐙 *Version control*</td></tr>
+      <tr><td>💻 <b>Web technologies*</td>
+            <td>🚀 <b>Web frameworks*</td></tr>
+      <tr>  <td>🔎 <b>Databases*</td>
+            <td>☁️ <b>Cloud Storage*</td></tr>
+      <tr>  <td>📊 <b>Data Analysis tools*</td>
+            <td>🧠 <b>Machine Learning*</td></tr>
+      <tr>  <td>🛠️ <b>DevOps*</td>
+            <td>💽 <b>Operating systems*</td></tr>
+      <tr>  <td>🕵️ <b>Monitoring*</td>
+            <td>🐙 <b>Version control*</td></tr>
 </table>
 
 --------------------
