@@ -59,7 +59,7 @@ Here are some ideas to get you started:
       <tr><td>💻 <b>Web technologies </b> <br>
             <img src="https://skillicons.dev/icons?i=html,css,js,vue"></td>
             <td>🔎 <b>Databases</b> <br>
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="80" height="80"/></td>
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="100" height="100"/></td>
             </tr>
       <tr>  <td>🚀 <b>Web frameworks</b></td>
             <td>☁️ <b>Cloud Storage</b></td></tr>
