@@ -51,7 +51,17 @@ Here are some ideas to get you started:
 -----------------
 ## 📚 Tech Stack
 <!-- Dev Icons - https://github.com/devicons/devicon/ -->
-<img src="https://skillicons.dev/icons?i=js,html,css,wasm">
+- :star: *Programming languages* - <img src="https://skillicons.dev/icons?i=js,html,css,wasm">
+- 💻 *Web technologies* -
+- 🚀 *Web frameworks* - .
+- 🔎 *Databases*
+- ☁️ *Cloud Storage*
+- 📊 *Data Analysis tools* -
+- 🧠 *Machine Learning*
+- 🛠️ *DevOps*
+- 💽 *Operating systems*
+- 🕵️ *Monitoring*
+- 🐙 *Version control*
 
 --------------------
 ## :octocat: My GitHub streak 🔥 stats
