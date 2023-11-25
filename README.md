@@ -60,7 +60,7 @@ Here are some ideas to get you started:
       </tr>
       <tr align="center">
             <td><b>Frontend technologies</b><br><br><img src="https://skillicons.dev/icons?i=bootstrap,jquery,vue,express"></td>
-            <td><b>Web frameworks</b><br><br> <img src="https://skillicons.dev/icons?i=django,flask,rails,node,deno"></td>
+            <td><b>Web frameworks</b><br><br> <img src="https://skillicons.dev/icons?i=django,flask,rails,nodejs,deno"></td>
             <td> <b>Databases</b><br><br> <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,redis"></td>
             <td> <b>Cloud Storage</b><br><br><img src="https://skillicons.dev/icons?i=aws"></td>
       </tr>
