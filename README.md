@@ -59,8 +59,8 @@ Here are some ideas to get you started:
                  <br><br> <img src="https://skillicons.dev/icons?i=python,bash,cpp,c,cs,java,html,css,js">
       </tr>
       <tr align="center">
-            <td><b>Web technologies</b><br><br><img src="https://skillicons.dev/icons?i=bootstrap,jquery,vue,express"></td>
-            <td><b>Web frameworks</b><br><br> <img src="https://skillicons.dev/icons?i=django,flask,rails"></td>
+            <td><b>Frontend technologies</b><br><br><img src="https://skillicons.dev/icons?i=bootstrap,jquery,vue,express"></td>
+            <td><b>Web frameworks</b><br><br> <img src="https://skillicons.dev/icons?i=django,flask,rails,node,deno"></td>
             <td> <b>Databases</b><br><br> <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,redis"></td>
             <td> <b>Cloud Storage</b><br><br><img src="https://skillicons.dev/icons?i=aws"></td>
       </tr>
