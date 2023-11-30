@@ -59,16 +59,16 @@ Here are some ideas to get you started:
                  <br><br> <img src="https://icons-theta.vercel.app/icons?i=python,bash,cpp,c,cs,java,html,css,js">
       </tr>
       <tr align="center"> 
-            <td><b>Frontend technologies</b><br><br><img src="https://icons-theta.vercel.app/icons?i=bootstrap,jquery,vue,express"></td>
-            <td><b>Web frameworks</b><br><br> <img src="https://icons-theta.vercel.app/icons?i=django,flask,rails,nodejs,deno"></td>
-            <td> <b>Databases</b><br><br> <img src="https://icons-theta.vercel.app/icons?i=mysql,sqlite,mongodb,redis"></td>
-            <td> <b>Cloud Storage</b><br><br><img src="https://icons-theta.vercel.app/icons?i=aws"></td>
+            <td><b>Frontend technologies</b><br><br><img src="https://icons-theta.vercel.app/icons?i=bootstrap,jquery,vue,express,&perline=3"></td>
+            <td><b>Web frameworks</b><br><br> <img src="https://icons-theta.vercel.app/icons?i=django,flask,rails,nodejs,deno,&perline=3"></td>
+            <td> <b>Databases</b><br><br> <img src="https://icons-theta.vercel.app/icons?i=mysql,sqlite,mongodb,redis,neo4j,&perline=3"></td>
+            <td> <b>DevOps</b><br><br><img src="https://icons-theta.vercel.app/icons?i=jenkins,docker,&perline=1"></td>
       </tr>
       <tr align="center"> 
             <td> <b>Data Analysis tools</b><br><br> <img src="https://icons-theta.vercel.app/icons?i="> </td>
             <td> <b>Machine Learning</b><br><br><img src="https://icons-theta.vercel.app/icons?i=tensorflow,pytorch"> </td>
-            <td> <b>DevOps</b><br><br><img src="https://icons-theta.vercel.app/icons?i=jenkins,docker"></td>
             <td> <b>Operating systems</b><br><br> <img src="https://icons-theta.vercel.app/icons?i=linux"></td>
+            <td> <b>Cloud Storage</b><br><br><img src="https://icons-theta.vercel.app/icons?i=aws"></td>
       </tr>
       <tr align="center">
             <td> <b>Monitoring</b><br><br> <img src="https://icons-theta.vercel.app/icons?i=kafka,postman"></td>
