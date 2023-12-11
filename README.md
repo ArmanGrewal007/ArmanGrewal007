@@ -35,10 +35,8 @@ Here are some ideas to get you started:
 <a href="https://leetcode.com/armancode4u/"> <img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Rating&query=ratingQuantile&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Farmancode4u&logo=leetcode&logoColor=yellow)"> </a> -->
 
 <br>
-<a href=""> <img src="https://icons-theta.vercel.app/icons?i=instagram"/> </a>
-<a href="https://stackoverflow.com/users/14706506/armangrewal007"> 
-      <img src="https://icons-theta.vercel.app/icons?i=stackoverflow"/> 
-</a>
+<a href="" target="_blank"> <img src="https://icons-theta.vercel.app/icons?i=instagram"/> </a>
+<a href="https://stackoverflow.com/users/14706506/armangrewal007" target="_blank"> <img src="https://icons-theta.vercel.app/icons?i=stackoverflow"/> </a>
 
 </p>
 
