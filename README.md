@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 <p float="left" align="center"> 
 <!-- Profile view counter - https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=armangrewal007-wd&label=Profile%20views&color=green&style=flat" alt="armangrewal007-wd" /> 
-<img src="https://www.gentoo.org/assets/img/badges/gentoo-badge.png" />
+
+<!-- Gentoo badge
+<img src="https://www.gentoo.org/assets/img/badges/gentoo-badge.png" /> -->
 
 <!-- Leetcode problems solved, rating  - https://leetcode-badge.vercel.app/
       Leetcode contest rating and quantile 
