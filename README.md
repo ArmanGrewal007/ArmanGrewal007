@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <a href="https://leetcode.com/armancode4u/"> <img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Rating&query=ratingQuantile&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Farmancode4u&logo=leetcode&logoColor=yellow)"> </a> -->
 
 <br>
-<img src="https://iconst-theta.vercel.app/icons?i=insta"/>
+<img src="https://iconst-theta.vercel.app/icons?i=instagram"/>
 
 </p>
 
