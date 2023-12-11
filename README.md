@@ -36,8 +36,9 @@ Here are some ideas to get you started:
 
 <br>
 <a href="https://www.instagram.com/arman.singh.grewal/" ><img src="https://icons-theta.vercel.app/icons?i=instagram"/></a>
-<img width="20"/>
+<img width="5"/>
 <a href="https://stackoverflow.com/users/14706506/armangrewal007" ><img src="https://icons-theta.vercel.app/icons?i=stackoverflow"/></a>
+<img width="5"/>
 <a href="https://www.kaggle.com/armangrewal007" ><img src="https://icons-theta.vercel.app/icons?i=kaggle"/></a>
 
 
