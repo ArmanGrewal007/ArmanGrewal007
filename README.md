@@ -37,6 +37,9 @@ Here are some ideas to get you started:
 <br>
 <a href="" target="_blank"> <img src="https://icons-theta.vercel.app/icons?i=instagram"/> </a>
 <a href="https://stackoverflow.com/users/14706506/armangrewal007" target="_blank"> <img src="https://icons-theta.vercel.app/icons?i=stackoverflow"/> </a>
+<a href="https://www.kaggle.com/armangrewal007" target="_blank"> <img src="https://icons-theta.vercel.app/icons?i=kaggle"/> </a>
+
+
 
 </p>
 
