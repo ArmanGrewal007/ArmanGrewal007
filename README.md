@@ -63,8 +63,8 @@ Here are some ideas to get you started:
 -----------------
 ## 📚 Tech Stack
 <details> <summary> Click to expand ⤵️ </summary>
-      
-<i>These icons were created by [meee](https://www.github.com/ArmanGrewal007/IconsNew)</i>
+      <br><br>
+<div align="center"><i>These icons were created by [meee](https://www.github.com/ArmanGrewal007/IconsNew)</i></div>
 <br> <br>
 <table align="center" style="background-color: white;">
       <tr align="center">
