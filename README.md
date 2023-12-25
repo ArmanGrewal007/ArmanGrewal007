@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 ## 📚 Tech Stack
 <details> <summary> Click to expand ⤵️ </summary>
       <br><br>
-<div align="center"><i>These icons were created by [meee](https://www.github.com/ArmanGrewal007/IconsNew)</i></div>
+<div align="center"><i>These icons were created by <a href="https://www.github.com/ArmanGrewal007/IconsNew">meee</a></i></div>
 <br> <br>
 <table align="center" style="background-color: white;">
       <tr align="center">
