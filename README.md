@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 -----------------
 ## 📚 Tech Stack
-<!-- Dev Icons - https://github.com/devicons/devicon/ -->
+*These icons were created by [meee](https://www.github.com/ArmanGrewal007/IconsNew)*
 <details> <summary> Click to expand ⤵️ </summary>
 <br>
 <table align="center" style="background-color: white;">
