@@ -85,7 +85,7 @@ Here are some ideas to get you started:
       <tr align="center">
             <td> <b>Monitoring</b><br><br> <img src="https://icons-theta.vercel.app/icons?i=kafka,postman"></td>
             <td> <b>Version control</b><br><br> <img src="https://icons-theta.vercel.app/icons?i=git"></td>
-            <td> <b>Graphic designing</b><br><br><img src="https://icons-theta.vercel.app/icons?i=blender"> </td>
+            <td> <b>Graphic designing</b><br><br><img src="https://icons-theta.vercel.app/icons?i=gimp,blender"> </td>
             <td> <b>Game development</b><br><br><img src="https://icons-theta.vercel.app/icons?i=unity"> </td>
       </tr>
 </table>
