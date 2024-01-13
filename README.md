@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 <table align="center" style="background-color: white;">
       <tr align="center">
             <td colspan="5"> <b>Programming/Scripting languages</b> 
-                 <br><br> <img src="https://icons-theta.vercel.app/icons?i=python,bash,cpp,c,cs,java,html,css,js">
+                 <br><br> <img src="https://icons-theta.vercel.app/icons?i=python,bash,cpp,c,cs,java,html,css,js,ruby">
       </tr>
       <tr align="center"> 
             <td><b>Frontend technologies</b><br><br><img src="https://icons-theta.vercel.app/icons?i=bootstrap,jquery,vue,express,&perline=3"></td>
