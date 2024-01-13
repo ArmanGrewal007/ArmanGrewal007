@@ -79,7 +79,7 @@ Here are some ideas to get you started:
       <tr align="center"> 
             <td> <b>Data Analysis tools</b><br><br> <img src="https://icons-theta.vercel.app/icons?i=excel,splunk"> </td>
             <td> <b>Machine Learning</b><br><br><img src="https://icons-theta.vercel.app/icons?i=tensorflow,pytorch"> </td>
-            <td> <b>Operating systems</b><br><br> <img src="https://icons-theta.vercel.app/icons?i=linux"></td>
+            <td> <b>Operating systems</b><br><br> <img src="https://icons-theta.vercel.app/icons?i=linux,apple"></td>
             <td> <b>Cloud Storage</b><br><br><img src="https://icons-theta.vercel.app/icons?i=aws"></td>
       </tr>
       <tr align="center">
