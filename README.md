@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 <table align="center" style="background-color: white;">
       <tr align="center">
             <td colspan="5"> <b>Programming/Scripting languages</b> 
-                 <br><br> <img src="https://icons-theta.vercel.app/icons?i=python,bash,cpp,c,cs,java,html,css,js,ruby">
+                 <br><br> <img src="https://icons-theta.vercel.app/icons?i=python,bash,cpp,c,cs,java,latex,html,css,js,ruby">
       </tr>
       <tr align="center"> 
             <td><b>Frontend technologies</b><br><br><img src="https://icons-theta.vercel.app/icons?i=bootstrap,jquery,vue,express,&perline=3"></td>
@@ -83,7 +83,7 @@ Here are some ideas to get you started:
             <td> <b>Cloud Storage</b><br><br><img src="https://icons-theta.vercel.app/icons?i=aws"></td>
       </tr>
       <tr align="center">
-            <td> <b>Monitoring</b><br><br> <img src="https://icons-theta.vercel.app/icons?i=kafka,postman"></td>
+            <td> <b>Monitoring</b><br><br> <img src="https://icons-theta.vercel.app/icons?i=kafka,postman,influx"></td>
             <td> <b>Version control</b><br><br> <img src="https://icons-theta.vercel.app/icons?i=git"></td>
             <td> <b>Graphic designing</b><br><br><img src="https://icons-theta.vercel.app/icons?i=gimp,ink,blender"> </td>
             <td> <b>Game development</b><br><br><img src="https://icons-theta.vercel.app/icons?i=unity"> </td>
