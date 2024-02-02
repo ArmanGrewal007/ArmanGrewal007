@@ -39,7 +39,9 @@ Here are some ideas to get you started:
 <img width="5"/>
 <a href="https://stackoverflow.com/users/14706506/armangrewal007" ><img src="https://icons-theta.vercel.app/icons?i=stackoverflow"/></a>
 <img width="5"/>
-<a href="https://www.kaggle.com/armangrewal007" ><img src="https://icons-theta.vercel.app/icons?i=kaggle"/></a>
+<a href="https://www.kaggle.com/armangrewal007"><img src="https://icons-theta.vercel.app/icons?i=kaggle"/></a>
+<img width="5"/>
+<a href="https://medium.com/@armangrewal"><img src="https://icons-theta.vercel.app/icons?i=medium"/></a>
 
 
 
