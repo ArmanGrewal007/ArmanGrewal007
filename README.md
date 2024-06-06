@@ -112,10 +112,11 @@ Here are some ideas to get you started:
 ------------------------
 ## ⏰ My WakaTime stats 
 <details> <summary> Click to expand ⤵️ </summary>
+<div align="center">
 <p float="left" align="center">
       <!-- time spend coding on wakatime -->
 <a href="https://wakatime.com/@018bec3c-339f-4acb-98b2-41aa9598b087"><img src="https://wakatime.com/badge/user/018bec3c-339f-4acb-98b2-41aa9598b087.svg" alt="Total time coded since Nov 20 2023" /></a>
-</p>
+</p></div>
 
 <!-- wakatime stats -->
 <img src="https://github-readme-stats-git-master-armangrewal007s-projects.vercel.app/api/wakatime?username=armangrewal007&theme=github_dark_dimmed&layout=compact">
