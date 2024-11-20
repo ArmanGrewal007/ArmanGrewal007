@@ -73,8 +73,8 @@ Here are some ideas to get you started:
                  <br><br> <img src="https://icons-theta.vercel.app/icons?i=python,bash,cpp,c,cs,java,latex,html,css,js,ruby">
       </tr>
       <tr align="center"> 
-            <td><b>Frontend technologies</b><br><br><img src="https://icons-theta.vercel.app/icons?i=bootstrap,jquery,vue,express,&perline=3"></td>
-            <td><b>Web frameworks</b><br><br> <img src="https://icons-theta.vercel.app/icons?i=django,flask,rails,nodejs,&perline=3"></td>
+            <td><b>Frontend technologies</b><br><br><img src="https://icons-theta.vercel.app/icons?i=bootstrap,jquery,vue,express,react,&perline=3"></td>
+            <td><b>Web frameworks</b><br><br> <img src="https://icons-theta.vercel.app/icons?i=django,flask,rails,nodejs,gatsby,next,&perline=3"></td>
             <td> <b>Databases</b><br><br> <img src="https://icons-theta.vercel.app/icons?i=mysql,sqlite,mongodb,redis,neo4j,es,&perline=4"></td>
             <td> <b>DevOps</b><br><br><img src="https://icons-theta.vercel.app/icons?i=jenkins,docker,podman,&perline=2"></td>
       </tr>
