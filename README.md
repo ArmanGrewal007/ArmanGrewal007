@@ -85,7 +85,7 @@ Here are some ideas to get you started:
             <td> <b>Cloud Storage</b><br><br><img src="https://icons-theta.vercel.app/icons?i=aws"></td>
       </tr>
       <tr align="center">
-            <td> <b>Monitoring</b><br><br> <img src="https://icons-theta.vercel.app/icons?i=kafka,rabbitmq,postman,influx&oerline=2"></td>
+            <td> <b>Monitoring</b><br><br> <img src="https://icons-theta.vercel.app/icons?i=kafka,rabbitmq,postman,influx&perline=2"></td>
             <td> <b>Version control</b><br><br> <img src="https://icons-theta.vercel.app/icons?i=git"></td>
             <td> <b>Graphic designing</b><br><br><img src="https://icons-theta.vercel.app/icons?i=gimp,ink,blender"> </td>
             <td> <b>Game development</b><br><br><img src="https://icons-theta.vercel.app/icons?i=unity"> </td>
